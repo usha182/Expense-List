@@ -1,0 +1,8 @@
+#appendList span {
+	width: 100px;
+    display: inline-block;
+    text-align: center;
+}
+#appendList > div {
+	
+}

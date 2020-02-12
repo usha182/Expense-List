@@ -1,0 +1,29 @@
+.subTitle {
+	color: #ccc;
+	font-size: 12px;
+}
+.income {
+	color: #1cb500;
+    margin-right: 20px;
+}
+.spent {
+	color: #f00e;
+}
+.primary, .warning {	
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    margin:20px 20px 20px 0;
+}
+.primary {
+	background-color: #1cb500;
+}
+.warning {
+	background-color: #f00e;
+}
+header {
+    background-color: #f3efef;
+    padding: 10px;
+}

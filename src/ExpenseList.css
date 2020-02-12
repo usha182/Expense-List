@@ -1,0 +1,12 @@
+#appendList span {
+	width: 90px;
+    display: inline-block;
+    text-align: center;
+}
+#appendList > div {
+	padding: 15px 0;
+    border-bottom: 1px solid #ccc;	
+}
+#appendList {
+    margin-top: 10px;
+}

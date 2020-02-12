@@ -1,0 +1,11 @@
+#expensive div {
+	padding: 10px;
+	margin-bottom: 10px;
+}
+#expensive input, #expensive textarea {
+	float: right;
+}
+#expensive {
+	background-color: #ccc;
+    text-align: center;
+}
